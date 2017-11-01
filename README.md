@@ -1,0 +1,2 @@
+# CoRoT-1b
+CoRoT-1b is a giant planet, about 1.5 times larger than Jupiter, 1.03 times as massive and is orbiting a sun like star (a G0V star) that is mildly metal poor. It is orbiting its star at about 5 stellar radii, which is much smaller than Jupiter’s orbit around the sun (~1120 stellar radii). It has a very high brightness temperature of 2450K and is a good example of strongly irradiated planets. I am using Hubble Space Telescope's stare mode data on this planet to search for water vapor in it's atmosphere.
